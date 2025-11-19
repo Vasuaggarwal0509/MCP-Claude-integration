@@ -1,0 +1,51 @@
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Environment variables
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Packages
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+sdist/
+var/
+wheels/
+
+# Logs
+*.log
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dll
+*.dylib
+
+# Unit test / Coverage
+htmlcov/
+.coverage
+.cache
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Tool configs
+.mypy_cache/
+.pytest_cache/
