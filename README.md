@@ -50,3 +50,8 @@ What Claude actually does is:
 ✔ Your Python file only works because it is an MCP server
 
 hence we need mcp server to interact with llm with our personal python code
+
+Here i made multiply in addition tool to verify my custom tool code and it is working fine.
+
+
+<img width="1919" height="1009" alt="Screenshot 2025-11-19 193458" src="https://github.com/user-attachments/assets/984b16fb-4ece-4f6a-9622-e8cf928bed7f" />
